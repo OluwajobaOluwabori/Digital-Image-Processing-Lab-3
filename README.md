@@ -1,2 +1,3 @@
 # Digital Image Processing Lab 3
- This project focuses on image equalization, thrsholding and colour analysis
+ This project highlights important techniques in image processing, focusing on image equalization, thresholding and colour analysis. It demonstrates how these methods are used
+in Python to count objects, find differences between images, and segment areas based on colour in HSV space. I applied these techniques to real images to identify and measure distinct features, such as object surface areas and pixel differences. Learning these methods is important for tasks like object detection and image segmentation in areas such as healthcare, manufacturing, and computer vision.
